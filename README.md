@@ -1,2 +1,2 @@
 # zookeeper-example
-zookeeper 联系
+zookeeper 示例

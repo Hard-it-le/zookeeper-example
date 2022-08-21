@@ -5,3 +5,5 @@
 /**/.mvn/
 /zookeeper-demo.iml
 /**/mvnw
+/zookeeper-lock/HELP.md
+/.DS_Store
